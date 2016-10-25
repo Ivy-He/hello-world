@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi all,
+
+I'm interested in the knowledge of front-end web development. 
